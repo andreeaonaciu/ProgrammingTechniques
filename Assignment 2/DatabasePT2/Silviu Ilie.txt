@@ -1,0 +1,4 @@
+Client: Silviu Ilie
+Product: lapte
+Quantity: 1
+Price: 199.0

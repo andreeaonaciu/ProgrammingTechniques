@@ -1,0 +1,4 @@
+Client: Andreea Onaciu
+Product: lapte
+Quantity: 1
+Price: 2.0
